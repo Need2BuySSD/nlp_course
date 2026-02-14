@@ -76,3 +76,5 @@ debian/files
 *.substvars
 *.debhelper.log
 *.vec
+*.gz
+*.json
