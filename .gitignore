@@ -82,3 +82,4 @@ debian/files
 *.ru
 *.txt
 /week04_transfer/trainer_output
+/week07_finetuning/outputs
